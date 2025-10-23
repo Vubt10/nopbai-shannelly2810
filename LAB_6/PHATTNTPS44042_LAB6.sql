@@ -1,4 +1,5 @@
-﻿USE QLDA
+﻿--LAB 6
+USE QLDA
 GO
 --Bài 1.1 Ràng buộc mức lương nhân viên khi thêm mới phải lớn hơn 15000 / Nếu không , hủy -> thông báo lương phải lớn hơn 15000
 SELECT * FROM NHANVIEN

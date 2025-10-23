@@ -1,4 +1,5 @@
-﻿--Bài 1 In tên Tiếng Việt
+﻿--LAB 5
+--Bài 1 In tên Tiếng Việt
 CREATE OR ALTER PROC sp_Ten 
     @ten NVARCHAR(50)
 AS

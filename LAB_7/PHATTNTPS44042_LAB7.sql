@@ -1,4 +1,5 @@
-﻿USE QLDA
+﻿--LAB 7
+USE QLDA
 -- Bài 1.1- Nhập MaNV -> Biết tuổi 
 SELECT * FROM NHANVIEN
 GO
